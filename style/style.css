@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+  background:rgba(162, 162, 158, 0.968) url(/images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode:darken;
+    
+}
+.banner-title {
+     padding: 200px;
+    
+}
+.title{
+    margin-top: 30px;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+.banner-details{
+    text-align: center;
+    
+    margin-top: 30px;
+}
+.dicription{
+    font-size: 20px;
+    color: red;
+    
+}
+.btn{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin: auto;
+}
+.container2{
+    width: 100%;
+    height: 40vh;
+    background-color: blueviolet;
+}
