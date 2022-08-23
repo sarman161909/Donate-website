@@ -10,7 +10,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-blend-mode:darken;
+    
     
 }
 .banner-title {
@@ -20,7 +20,7 @@ body{
 .title{
     margin-top: 30px;
     font-size: 35px;
-    color: white;
+    color: rgb(156, 19, 19);
     text-align: center;
     padding: 30px;
 }
